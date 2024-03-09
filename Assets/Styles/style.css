@@ -1,4 +1,8 @@
 body {
+    background: #ffffff;
+}
+
+.navbar{
     background: #000000;
 }
 
@@ -206,6 +210,10 @@ body {
 }
 
 /* CSS for formatting the table in modal */
+.modal-title{
+    text-align: center;
+}
+
 .modal-body table {
     width: 100%;
 }
